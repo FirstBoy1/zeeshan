@@ -1,0 +1,7 @@
+{
+  "name": "zeeshan",
+  "version": "1.0.0",
+  "bin": {
+    "zeeshan": "index.js"
+  }
+}
