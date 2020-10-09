@@ -1,7 +1,22 @@
 {
   "name": "zeeshan",
   "version": "1.0.0",
+  "description": "Know about zeeshan via npm `npx zeeshan`",
   "bin": {
     "zeeshan": "index.js"
+  },
+  "dependencies": {
+    "cli-welcome": "^2.2.2"
+  },
+  "keywords": [
+    "zeeshan ahmad",
+    "zeeshan"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "FirstBoy1/zeeshan",
+  "author": {
+    "name": "Zeeshan Ahmad",
+    "email": "zeems1234@gmail.com"
   }
 }
